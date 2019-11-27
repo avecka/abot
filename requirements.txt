@@ -1,0 +1,21 @@
+discord
+flask
+mcrcon
+psycopg2
+youtube-dl
+discord.py
+Flask
+asyncio
+youtube-dl
+ffmpeg
+config
+body
+discord.py[voice]
+ffprobe
+bs4
+cffi --only-binary all; sys_platform == 'win32'
+colorlog
+pynacl==1.2.1
+pip
+fortnite_python
+PIL
