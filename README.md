@@ -7,3 +7,6 @@ Main server https://discord.gg/6at9rRg
 Bot invite: https://abot2.webnode.cz
 
 -czech language or use translator 
+
+bot status: https://abotacek.adyas28.repl.co
+yes its on repl
